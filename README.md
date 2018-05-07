@@ -3,7 +3,7 @@
 
 # python基础
 - [传智播客基于linux的python基础课程](http://yun.itheima.com/course/273.html)，本课程极其简单易懂，缺点是太罗嗦，建议搭配可以倍速播放的播放器食用。适用人群：编程基础一般，未来想深入了解python的同学，用于打好基础。
-- [廖学峰的python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)，这个教程有深度，涉及到的面也较广，介绍了很多python的高级用法。但是有些章节有一定难度，理解起来可能有一定困难。适合人群：有一定编程基础，并且想马上深入了解python的同学。实在看不懂的地方，可以配合[传智播客的Python课程](http://yun.itheima.com/course/214.html)一起看。
+- [廖学峰的python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)，这个教程有深度，涉及到的面也较广，介绍了很多python的高级用法。但是有些章节有一定难度，理解起来可能有一定困难。适合人群：有一定编程基础，并且想马上深入了解python的同学。实在看不懂的地方，可以配合[传智播客的Python课程](http://yun.itheima.com/course/273.html)一起看。
 
 # python 进阶
 如果想在编程这条路上走的更远，例如将机器学习应用于土木工程领域，再比如想转行做数据分析，学学以下课程。
